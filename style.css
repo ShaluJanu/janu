@@ -1,0 +1,43 @@
+     ul{
+        list-style:none;
+        box-shadow:4px 4px 9px black;
+        background-color:pink;
+        overflow:hidden;
+        }
+     ol{
+        text-decoration:none;
+        padding:10px;
+        display:inline-block;
+        font-size:20px;
+        color:red;
+
+        }
+        ol:hover{
+        color:green;
+
+        }
+     h1{
+
+        color:blue;
+        font-size:70px;
+        text-align:center;
+        text-shadow:4px 4px 9px black;
+
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-height:100px;
+          }
+     div{
+        height:150px;
+
+        background-repeat:no-repeat;
+        background-size:cover;
+        }
+     body{
+        background-image:url(college.jfif);
+
+        }
+     ol a{
+     text-decoration:none;
+     
+     }
